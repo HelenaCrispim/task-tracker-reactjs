@@ -1,6 +1,0 @@
-id creation
-hide add tasks when not using
-alert button (icon and function)
-edit button
-
-general style
